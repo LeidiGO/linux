@@ -158,7 +158,7 @@ properties:
             # Intersil ISL69260 PMBus Voltage Regulator
           - isil,isl69260
             # Intersil ISL69269 PMBus Voltage Regulator
-          - isil,isl69269
+          - isil,isl69269 Yousra ha estado aquí también
             # Intersil ISL76682 Ambient Light Sensor
           - isil,isl76682
             # JEDEC JESD300 (SPD5118) Hub and Serial Presence Detect
